@@ -1,11 +1,17 @@
-# 🧠 Hands-On Machine Learning: Guía de Estudio (Edición 2025)
-### Implementación en Scikit-Learn y PyTorch
+# 🧠 Guía de Estudio: Hands-On Machine Learning with Scikit-Learn and PyTorch
+### Análisis y ejercicios del libro de Aurélien Géron (Edición 2025)
+
+<br>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-The_Future-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-En_Progreso-green?style=for-the-badge)
 
 > *"La teoría sin práctica es estéril; la práctica sin teoría es ciega."*
+
+<br>
+<br>
 
 ## 👋 ¡Bienvenido al Repositorio!
 
@@ -15,11 +21,15 @@ Aquí encontrarás **Jupyter Notebooks** detallados, ejercicios resueltos y nota
 
 ---
 
+<br>
+
 ## 📚 ¿Por qué este libro?
 
 En el mundo de la Ciencia de Datos, este libro es considerado universalmente como la **"Biblia del Machine Learning"**. 
 
 Esta edición 2025 es particularmente especial porque el autor, Aurélien Géron, ha actualizado el contenido para reflejar las demandas actuales de la investigación avanzada y el mercado laboral moderno. No es solo un libro de texto; es el estándar de la industria para entender lo que hay "bajo el capó" de los algoritmos modernos.
+
+<br>
 
 ### 🚀 El Cambio Estratégico: ¿Por qué PyTorch?
 A diferencia de ediciones anteriores centradas en TensorFlow, este repositorio (y la nueva edición del libro) pone un énfasis principal en **PyTorch**.
@@ -28,13 +38,18 @@ A diferencia de ediciones anteriores centradas en TensorFlow, este repositorio (
 
 ---
 
+<br>
+
 ## 📺 Acompañamiento en Video
 
 Este repositorio es el compañero técnico de mi canal de YouTube, donde explico estos conceptos paso a paso. Si prefieres aprender viendo y escuchando, ¡te invito a suscribirte!
 
-[🔴 **Ver la Lista de Reproducción en YouTube: Dominando ML con Aurélien Géron**](AQUI_TU_ENLACE_AL_CANAL)
+[🔴 **Ver la Lista de Reproducción en YouTube: Dominando ML con Aurélien Géron**](https://www.youtube.com/@DataScienceByDoing)
 
 ---
+
+<br>
+<br>
 
 ## 🗂️ Estructura del Repositorio
 
@@ -42,7 +57,7 @@ El contenido está organizado progresivamente, desde los fundamentos clásicos h
 
 ### Parte 1: Los Fundamentos del Machine Learning
 *Enfocado en Scikit-Learn y limpieza de datos.*
-- [ ] **Capítulo 1:** El panorama del Machine Learning.
+- [X] **Capítulo 1:** El panorama del Machine Learning.
 - [ ] **Capítulo 2:** Proyecto de ML de principio a fin (End-to-End).
 - [ ] **Capítulo 3:** Clasificación.
 - [ ] **Capítulo 4:** Entrenamiento de Modelos.
@@ -63,16 +78,19 @@ El contenido está organizado progresivamente, desde los fundamentos clásicos h
 
 ---
 
+<br>
+<br>
+
 ## 🛠️ Instalación y Requisitos
 
 Para correr estos notebooks en tu máquina local, asegúrate de tener un entorno configurado correctamente. Recomiendo usar **Conda** para gestionar las dependencias.
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/TU_USUARIO/hands-on-ml-pytorch-2025.git](https://github.com/TU_USUARIO/hands-on-ml-pytorch-2025.git)
+git clone https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git
 
 # Crear entorno virtual (Recomendado)
-conda create -n ml-geron python=3.10
+conda create -n ml-geron python=3.12
 conda activate ml-geron
 
 # Instalar dependencias clave
