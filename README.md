@@ -1,23 +1,30 @@
-# 🧠 Guía de Estudio: Hands-On Machine Learning with Scikit-Learn and PyTorch
+# 🧠 Guía de Estudio: Hands-On Machine Learning
 ### Análisis y ejercicios del libro de Aurélien Géron (Edición 2025)
 
 <br>
 
----
-
 <p align="center">
-  <img src="images/portada_libro.jpg" alt="Hands-On Machine Learning 3rd Edition Cover" width="300">
+  <img src="images/Hands-On_ML.png" alt="Hands-On Machine Learning with Scikit-Learn and PyTorch 1st Edition Cover" width="450">
 </p>
 
----
-
 <br>
 <br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit_learn-Industry_Standard-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-The_Future-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-The_Future-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-En_Progreso-green?style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/Estado-En_Progreso-green?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/github/last-commit/MiltonValleL/hands-on-ml-pytorch-2025/main?style=for-the-badge&label=Actualizado&color=blueviolet" alt="Last Commit"/>
+  <img src="https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge" alt="License"/>
+</div>
+
+
+<br>
+<br>
 
 > *"La teoría sin práctica es estéril; la práctica sin teoría es ciega."*
 
