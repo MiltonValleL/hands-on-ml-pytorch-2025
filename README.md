@@ -2,7 +2,18 @@
 ### Análisis y ejercicios del libro de Aurélien Géron (Edición 2025)
 
 <br>
+
+---
+
+<p align="center">
+  <img src="images/portada_libro.jpg" alt="Hands-On Machine Learning 3rd Edition Cover" width="300">
+</p>
+
+---
+
 <br>
+<br>
+
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-The_Future-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
