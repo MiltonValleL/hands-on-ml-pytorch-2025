@@ -87,7 +87,7 @@ Para correr estos notebooks en tu máquina local, asegúrate de tener un entorno
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git](https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git)
+git clone https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git
 
 # Crear entorno virtual (Recomendado)
 conda create -n ml-geron python=3.12
