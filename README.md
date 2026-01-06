@@ -42,7 +42,7 @@ El contenido está organizado progresivamente, desde los fundamentos clásicos h
 
 ### Parte 1: Los Fundamentos del Machine Learning
 *Enfocado en Scikit-Learn y limpieza de datos.*
-- [ ] **Capítulo 1:** El panorama del Machine Learning.
+- [X] **Capítulo 1:** El panorama del Machine Learning.
 - [ ] **Capítulo 2:** Proyecto de ML de principio a fin (End-to-End).
 - [ ] **Capítulo 3:** Clasificación.
 - [ ] **Capítulo 4:** Entrenamiento de Modelos.
