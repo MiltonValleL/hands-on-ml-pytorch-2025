@@ -45,7 +45,7 @@ La disciplina científica para evitar el auto-engaño.
 
 | Archivo | Descripción |
 | :--- | :--- |
-| [**01_panorama_general.ipynb**](./01_panorama_general.ipynb) | **Notebook Principal.** Implementación de ejemplos de generalización, visualización de sesgos y configuración del entorno. |
+| [**01_panorama_machine_learning.ipynb**](https://github.com/MiltonValleL/hands-on-ml-pytorch-2025/blob/main/01_panorama_machine_learning/01.Panorama_del_ML.ipynb) | **Notebook Principal.** Implementación de ejemplos de generalización, visualización de sesgos y configuración del entorno. |
 
 ---
 
@@ -53,4 +53,4 @@ La disciplina científica para evitar el auto-engaño.
 
 Profundizo en estos conceptos y explico el código paso a paso en mi canal:
 
-[🔴 **Ver Video: Fundamentos de ML y el Arte de la Generalización**](LINK_A_TU_VIDEO_AQUI)
+[🔴 **Ver Video: Fundamentos de ML y el Arte de la Generalización**](https://www.youtube.com/@DataScienceByDoing)
