@@ -32,7 +32,7 @@ A diferencia de ediciones anteriores centradas en TensorFlow, este repositorio (
 
 Este repositorio es el compañero técnico de mi canal de YouTube, donde explico estos conceptos paso a paso. Si prefieres aprender viendo y escuchando, ¡te invito a suscribirte!
 
-[🔴 **Ver la Lista de Reproducción en YouTube: Dominando ML con Aurélien Géron**](AQUI_TU_ENLACE_AL_CANAL)
+[🔴 **Ver la Lista de Reproducción en YouTube: Dominando ML con Aurélien Géron**](https://www.youtube.com/@DataScienceByDoing)
 
 ---
 
@@ -69,10 +69,10 @@ Para correr estos notebooks en tu máquina local, asegúrate de tener un entorno
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/TU_USUARIO/hands-on-ml-pytorch-2025.git](https://github.com/TU_USUARIO/hands-on-ml-pytorch-2025.git)
+git clone [https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git](https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git)
 
 # Crear entorno virtual (Recomendado)
-conda create -n ml-geron python=3.10
+conda create -n ml-geron python=3.12
 conda activate ml-geron
 
 # Instalar dependencias clave
