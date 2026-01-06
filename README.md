@@ -1,17 +1,13 @@
 # 🧠 Guía de Estudio: Hands-On Machine Learning
 ### Análisis y ejercicios del libro de Aurélien Géron (Edición 2025)
 
-<br>
-
 <p align="center">
   <img src="images/Hands-On_ML.png" alt="Hands-On Machine Learning with Scikit-Learn and PyTorch 1st Edition Cover" width="450">
 </p>
 
-<br>
-<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/scikit_learn-Industry_Standard-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/PyTorch-The_Future-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </div>
@@ -22,14 +18,13 @@
   <img src="https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge" alt="License"/>
 </div>
 
-
 <br>
 <br>
 
 > *"La teoría sin práctica es estéril; la práctica sin teoría es ciega."*
 
 <br>
-<br>
+
 
 ## 👋 ¡Bienvenido al Repositorio!
 
@@ -39,15 +34,11 @@ Aquí encontrarás **Jupyter Notebooks** detallados, ejercicios resueltos y nota
 
 ---
 
-<br>
-
 ## 📚 ¿Por qué este libro?
 
 En el mundo de la Ciencia de Datos, este libro es considerado universalmente como la **"Biblia del Machine Learning"**. 
 
 Esta edición 2025 es particularmente especial porque el autor, Aurélien Géron, ha actualizado el contenido para reflejar las demandas actuales de la investigación avanzada y el mercado laboral moderno. No es solo un libro de texto; es el estándar de la industria para entender lo que hay "bajo el capó" de los algoritmos modernos.
-
-<br>
 
 ### 🚀 El Cambio Estratégico: ¿Por qué PyTorch?
 A diferencia de ediciones anteriores centradas en TensorFlow, este repositorio (y la nueva edición del libro) pone un énfasis principal en **PyTorch**.
@@ -56,8 +47,6 @@ A diferencia de ediciones anteriores centradas en TensorFlow, este repositorio (
 
 ---
 
-<br>
-
 ## 📺 Acompañamiento en Video
 
 Este repositorio es el compañero técnico de mi canal de YouTube, donde explico estos conceptos paso a paso. Si prefieres aprender viendo y escuchando, ¡te invito a suscribirte!
@@ -65,9 +54,6 @@ Este repositorio es el compañero técnico de mi canal de YouTube, donde explico
 [🔴 **Ver la Lista de Reproducción en YouTube: Dominando ML con Aurélien Géron**](https://www.youtube.com/@DataScienceByDoing)
 
 ---
-
-<br>
-<br>
 
 ## 🗂️ Estructura del Repositorio
 
@@ -96,9 +82,6 @@ El contenido está organizado progresivamente, desde los fundamentos clásicos h
 
 ---
 
-<br>
-<br>
-
 ## 🛠️ Instalación y Requisitos
 
 Para correr estos notebooks en tu máquina local, asegúrate de tener un entorno configurado correctamente. Recomiendo usar **Conda** para gestionar las dependencias.
@@ -108,8 +91,36 @@ Para correr estos notebooks en tu máquina local, asegúrate de tener un entorno
 git clone https://github.com/MiltonValleL/hands-on-ml-pytorch-2025.git
 
 # Crear entorno virtual (Recomendado)
-conda create -n ml-geron python=3.12
+conda create -n ml-geron python=3.11
 conda activate ml-geron
 
 # Instalar dependencias clave
 pip install torch torchvision torchaudio scikit-learn pandas numpy matplotlib
+```
+
+---
+
+## 🤝 Conecta conmigo
+
+Si estás estudiando este libro o te interesa el Data Science, ¡conectemos! Estoy documentando mi camino para convertirme en un profesional de talla mundial en Machine Learning.
+
+💼 LinkedIn: [Milton Rodolfo Valle Lora](https://www.linkedin.com/in/miltonvallelora/)
+
+🎥 YouTube: [@DataScienceByDoing](https://www.youtube.com/@DataScienceByDoing)
+
+---
+
+## ⚖️ Créditos y Disclaimer Legal
+
+Este repositorio es una adaptación educativa y comentada basada en la obra:
+**"Hands-On Machine Learning with Scikit-Learn and PyTorch"** de *Aurélien Géron*.
+
+* **Código Original:** Los conceptos estructurales del código pertenecen a Aurélien Géron y O'Reilly Media.
+
+* **Aportes de este Repositorio:** La traducción al español, comentarios detallados, explicaciones matemáticas (LaTeX), refactorización pedagógica y notas de estudio son autoría intelectual de **Milton Rodolfo Valle Lora**, licenciados bajo **MIT License**.
+
+Este material se distribuye con fines puramente académicos y de portafolio profesional. 
+
+Se recomienda encarecidamente adquirir el libro oficial para apoyar al autor.
+
+---
