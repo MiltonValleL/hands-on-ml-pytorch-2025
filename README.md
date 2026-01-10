@@ -1,8 +1,10 @@
 # 🧠 Guía de Estudio: Hands-On Machine Learning
 ### Análisis y ejercicios del libro de Aurélien Géron (Edición 2025)
 
+*(Esta es una guía de estudio no oficial del libro, todo el material ha sido creado únicamente con fines educativos)*
+
 <p align="center">
-  <img src="images/Hands-On_ML.png" alt="Hands-On Machine Learning with Scikit-Learn and PyTorch 1st Edition Cover" width="450">
+  <img src="images/Hands-On_ML.png" alt="Hands-On Machine Learning with Scikit-Learn and PyTorch 1st Edition Cover" width="390">
 </p>
 
 
